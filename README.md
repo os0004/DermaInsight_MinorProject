@@ -53,7 +53,49 @@
 - **Version Control**: 
   - Git, GitHub
 
+## Setup Instructions
+
+### Prerequisites
+- **Node.js**
+- **MongoDB**
+- **Python**
+- **TensorFlow and Keras**
+- 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/os0004/DermaInsight_MinorProject.git
+   
+2.Navigate to the project directory:
+  ```bash
+  cd DermaInsight_MinorProject
+
+3.Install backend dependencies:
+  ```bash
+  cd server
+  npm install
+
+4.Install frontend dependencies:
+  ```bash
+  cd ../client
+  npm install
+
+5.Set up environment variables for the server:
+  ```bash
+  MONGO_URI=your_mongodb_connection_string
+  JWT_SECRET=your_jwt_secret
+
+6.Run the backend server:
+  ```bash
+  cd ../server
+  node server.js
+
+7.Run the frontend server:
+  ```bash
+  cd ../client
+  npm start
+
+8.Access the application at http://localhost:3000.
+
+
+
