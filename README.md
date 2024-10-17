@@ -52,6 +52,28 @@
 
 - **Version Control**: 
   - Git, GitHub
+ 
+## Usage
+
+1. **User Registration and Login**: 
+   - Register a new account or log in with existing credentials.
+
+2. **Profile Management**: 
+   - View and update your profile information.
+
+3. **Skin Disease Prediction**:
+   - Navigate to the **Predict** page.
+   - Upload an image or capture one using your web camera.
+   - Click on **Predict** to get the prediction results.
+
+4. **Blog Creation**: 
+   - Navigate to the **Create Blog** page to create and manage your blog posts.
+
+5. **Contact Us**: 
+   - Use the contact form to send messages.
+
+6. **Prediction Records**: 
+   - View and download your prediction records in PDF format.
 
 ## Setup Instructions
 
