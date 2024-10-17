@@ -5,7 +5,7 @@
 
 ## Key Features
 - **Machine Learning Integration**: 
-  - Leverages the ResNet-50 model for high-accuracy skin disease detection.
+  Leverages the ResNet-50 model for high-accuracy skin disease detection.
   
 - **User Authentication**:
   - Secure login and registration functionality with personalized user experience.
@@ -108,7 +108,7 @@
    cd server
    npm install
 
-4. Install frontend dependencies:
+4. **Install frontend dependencies:**
    ```bash
    cd ../client
    npm install
