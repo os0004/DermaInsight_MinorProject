@@ -8,50 +8,50 @@
   Leverages the ResNet-50 model for high-accuracy skin disease detection.
   
 - **User Authentication**:
-  - Secure login and registration functionality with personalized user experience.
+  Secure login and registration functionality with personalized user experience.
   
 - **Blog Creation**:
-  - Users can create and share blogs related to skin health and diseases.
+  Users can create and share blogs related to skin health and diseases.
   
 - **Detection History**:
-  - Users can track and view their past skin disease detection results.
+  Users can track and view their past skin disease detection results.
 
 - **Profile Management**:
-  - Manage user profiles, including detection history and blog posts.
+  Manage user profiles, including detection history and blog posts.
 
 - **PDF Report Generation**:
-  - Generates downloadable PDF reports of detected diseases, which can be shared with healthcare professionals.
+  Generates downloadable PDF reports of detected diseases, which can be shared with healthcare professionals.
 
 - **Real-Time Predictions**:
-  - Instantly displays diagnosis results from uploaded images via a backend API.
+  Instantly displays diagnosis results from uploaded images via a backend API.
 
 - **Responsive Design**:
-  - Mobile-friendly design that adapts across various devices.
+  Mobile-friendly design that adapts across various devices.
 
 ## Tech Stack
 - **Frontend**: 
-  - React.js, HTML, CSS, Bootstrap
+  React.js, HTML, CSS, Bootstrap
   
 - **Backend**: 
-  - Node.js, Express.js
+  Node.js, Express.js
 
 - **Database**: 
-  - MongoDB
+  MongoDB
 
 - **Machine Learning**: 
-  - TensorFlow.js, ResNet-50 model
+  TensorFlow.js, ResNet-50 model
 
 - **Authentication**: 
-  - JWT (JSON Web Tokens) for secure user login and registration.
+  JWT (JSON Web Tokens) for secure user login and registration.
 
 - **APIs**: 
-  - REST API development for handling real-time data processing.
+  REST API development for handling real-time data processing.
 
 - **PDF Generation**: 
-  - Used jsPDF library for generating downloadable PDF reports.
+  Used jsPDF library for generating downloadable PDF reports.
 
 - **Version Control**: 
-  - Git, GitHub
+  Git, GitHub
  
 ## Usage
 
