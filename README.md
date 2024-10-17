@@ -76,14 +76,16 @@
    - View and download your prediction records in PDF format.
   
 ## Website Overview:
-1. **User Profile**:
+
+1. **USER PROFILE**:
   ![Screenshot 2024-09-28 042455](https://github.com/user-attachments/assets/9be5feab-9ffe-434a-8b23-ec8351affea6)
-2. **Pridiction Dashboard**:
+
+3. **PRIDICTION DASHBOARD**:
   ![Screenshot 2024-09-28 042441](https://github.com/user-attachments/assets/58710c34-2c5b-446c-a711-c41db7b104d8)
-3. **Pridiction History**:
+
+5. **PRIDICITON HISTORY**:
   ![Screenshot 2024-09-28 042242](https://github.com/user-attachments/assets/6a711b7a-05c6-470c-8215-2a147c7d44be)
        
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -93,15 +95,15 @@
 - **TensorFlow and Keras**
   
 ## Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/os0004/DermaInsight_MinorProject.git
    
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
    ```bash
    cd DermaInsight_MinorProject
 
-3. Install backend dependencies:
+3. **Install backend dependencies:**
    ```bash
    cd server
    npm install
@@ -111,22 +113,22 @@
    cd ../client
    npm install
 
-5. Set up environment variables for the server:
+5. **Set up environment variables for the server:**
    ```bash
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
 
-6. Run the backend server:
+6. **Run the backend server:**
    ```bash
    cd ../server
    node server.js
 
-7. Run the frontend server:
+7. **Run the frontend server:**
    ```bash
    cd ../client
    npm start
 
-8. Access the application at http://localhost:3000.
+8. **Access the application at** http://localhost:3000.
 
 
 
