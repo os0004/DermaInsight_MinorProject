@@ -75,7 +75,7 @@
    cd server
    npm install
 
-4.Install frontend dependencies:
+4. Install frontend dependencies:
   ```bash
   cd ../client
   npm install
