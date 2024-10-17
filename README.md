@@ -76,9 +76,13 @@
    - View and download your prediction records in PDF format.
   
 ## Website Overview:
-  ![Screenshot 2024-09-28 042242](https://github.com/user-attachments/assets/6a711b7a-05c6-470c-8215-2a147c7d44be)
-  ![Screenshot 2024-09-28 042441](https://github.com/user-attachments/assets/58710c34-2c5b-446c-a711-c41db7b104d8)
+1. **User Profile**:
   ![Screenshot 2024-09-28 042455](https://github.com/user-attachments/assets/9be5feab-9ffe-434a-8b23-ec8351affea6)
+2. **Pridiction Dashboard**:
+  ![Screenshot 2024-09-28 042441](https://github.com/user-attachments/assets/58710c34-2c5b-446c-a711-c41db7b104d8)
+3. **Pridiction History**:
+  ![Screenshot 2024-09-28 042242](https://github.com/user-attachments/assets/6a711b7a-05c6-470c-8215-2a147c7d44be)
+       
 
 ## Setup Instructions
 
